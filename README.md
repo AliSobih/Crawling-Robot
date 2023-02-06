@@ -6,3 +6,5 @@ One-leg Robot using Q-learning Reinforcement learning algorithm to learn how to 
 Crawling Robot<br />
 ![CR](https://user-images.githubusercontent.com/43109825/217105665-a9630718-d9c1-4cbc-a8b1-80a77f1beb59.png)
 <br />
+Demo video
+https://drive.google.com/file/d/1iQMPYejqOUf8joY4aHtq5p2jd5tw3l4w/view?usp=sharing
